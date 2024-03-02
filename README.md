@@ -6,7 +6,7 @@ A comprehensive table of video sign language datasets encompassing various langu
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | SignBD-Word [1] | Bangla | 200 | RGB, Pose | 6000 | 16 | Public | [Link to Dataset](https://sites.google.com/view/signbd-word/dataset)
 | Purdue RVL-SLLLASL [2]| American | 104 | RGB | 2576 | 14 | Public | [Link to Dataset](https://engineering.purdue.edu/RVL/Database/ASL/asl-database-front.htm)
-| RWTH-BOSTON-50 [3] | American | 50 | RGB | 483 | 3 | Public | [Link to Dataset] (https://www-i6.informatik.rwth-aachen.de/aslr/database-rwth-boston-50.php) 
+| RWTH-BOSTON-50 [3] | American | 50 | RGB | 483 | 3 | Public | [Link to Dataset](https://www-i6.informatik.rwth-aachen.de/aslr/database-rwth-boston-50.php) 
 | WLASL [4] | American | 2000 | RGB | 21083 | 119 | Public | [Link to Dataset] (https://dxli94.github.io/WLASL/)
 | MS-ASL [5] | American| 1000 | RGB | 9764 | 222 |Public | [Link to Dataset] (https://www.microsoft.com/en-us/research/project/ms-asl/downloads/) 
 | LSA64 [6] | Argentinian | 64 | RGB, hand segmentation | 3200 | 10 |Public | [Link to Dataset] (https://facundoq.github.io/datasets/lsa64/) 
