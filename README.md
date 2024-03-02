@@ -2,22 +2,22 @@
 
 A comprehensive table of video sign language datasets encompassing various languages, types, and features:
 
-| Datasets | Language | Classes | Type | Videos | Signers |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| SignBD-Word [1] | Bangla | 200 | RGB, Pose | 6000 | 16 |
-| Purdue RVL-SLLLASL [2]| American | 104 | RGB | 2576 | 14 |
-| RWTH-BOSTON-50 [3] | American | 50 | RGB | 483 | 3 |
-| WLASL | American [4] | 2000 | RGB | 21083 | 119 |
-| MS-ASL | American [5] | 1000 | RGB | 9764 | 222 |
-| LSA64 | Argentinian [6] | 64 | RGB, hand segmentation | 3200 | 10 |
-| DEVISIGN | Chinese [7] | 2000 | RGB, depth | 24000 | 8 |
-| Isolated SLR500 [8] | Chinese | 500 | RGB, depth, pose | 25000 | 50 |
-| DGS Kinect [9] | German | 40 | RGB, depth | 3000 | 15 |
-| GSL [10] | Greek | 20 | RGB | 840 | 6 |
-| INCLUDE [11] | Indian | 263 | RGB | 4287 | 7 |
-| PSL kinect 330 [12] | Polish | 30 | RGB, depth | 300 | - |
-| PSL ToF [12] | Polish | 84 | RGB, depth | 1680 | - |
-| AUTSL [13] | Turkish | 226 | RGB | 36302 | 43  |
+| Datasets | Language | Classes | Type | Videos | Signers | Availibility | Dataset link |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| SignBD-Word [1] | Bangla | 200 | RGB, Pose | 6000 | 16 | Public | [Link to Dataset](https://sites.google.com/view/signbd-word/dataset)
+| Purdue RVL-SLLLASL [2]| American | 104 | RGB | 2576 | 14 | Public | [Link to Dataset](https://engineering.purdue.edu/RVL/Database/ASL/asl-database-front.htm)
+| RWTH-BOSTON-50 [3] | American | 50 | RGB | 483 | 3 | Public | [Link to Dataset] (https://www-i6.informatik.rwth-aachen.de/aslr/database-rwth-boston-50.php) 
+| WLASL [4] | American | 2000 | RGB | 21083 | 119 | Public | [Link to Dataset] (https://dxli94.github.io/WLASL/)
+| MS-ASL [5] | American| 1000 | RGB | 9764 | 222 |Public | [Link to Dataset] (https://www.microsoft.com/en-us/research/project/ms-asl/downloads/) 
+| LSA64 [6] | Argentinian | 64 | RGB, hand segmentation | 3200 | 10 |Public | [Link to Dataset] (https://facundoq.github.io/datasets/lsa64/) 
+| DEVISIGN [7] | Chinese | 2000 | RGB, depth | 24000 | 8 | Public | [Link to Dataset] (https://vipl.ict.ac.cn/homepage/ksl/data.html) 
+| Isolated SLR500 [8] | Chinese | 500 | RGB, depth, pose | 25000 | 50 | Public | [Link to Dataset] (http://home.ustc.edu.cn/~hagjie/) 
+| DGS Kinect [9] | German | 40 | RGB, depth | 3000 | 15 | Public | [Link to Dataset] (https://www.cvssp.org/data/KinectSign/webpages/downloads.html) 
+| GSL [10] | Greek | 20 | RGB | 840 | 6 | Public | [Link to Dataset] (https://paperswithcode.com/dataset/gsl) 
+| INCLUDE [11] | Indian | 263 | RGB | 4287 | 7 | Public | [Link to Dataset] (https://zenodo.org/records/4010759) 
+| PSL kinect 330 [12] | Polish | 30 | RGB, depth | 300 | - | Public | [Link to Dataset] (https://vision.kia.prz.edu.pl/dynamickinect.php)
+| PSL ToF [12] | Polish | 84 | RGB, depth | 1680 | - | Public | [Link to Dataset] (https://vision.kia.prz.edu.pl/dynamictof.php) 
+| AUTSL [13] | Turkish | 226 | RGB | 36302 | 43  | Public | [Link to Dataset] (https://cvml.ankara.edu.tr/datasets/) 
 
 
 
