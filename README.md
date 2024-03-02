@@ -1,8 +1,8 @@
-# Word Level Video Sign Langauge Dataset 
+# Word Level / Isolated Video Sign Langauge Dataset 
 
 A comprehensive table of video sign language datasets encompassing various languages, types, and features:
 
-| Datasets | Language | Classes | Type | Videos | Signers | Availibility | Dataset link |
+| Datasets | Language | Word-Classes | Type | Videos | Signers | Availibility | Dataset link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | SignBD-Word [1] | Bangla | 200 | RGB, Pose | 6000 | 16 | Public | [Link to Dataset](https://sites.google.com/view/signbd-word/dataset)
 | Purdue RVL-SLLLASL [2]| American | 104 | RGB | 2576 | 14 | Public | [Link to Dataset](https://engineering.purdue.edu/RVL/Database/ASL/asl-database-front.htm)
@@ -18,6 +18,10 @@ A comprehensive table of video sign language datasets encompassing various langu
 | PSL kinect 330 [12] | Polish | 30 | RGB, depth | 300 | - | Public | [Link to Dataset](https://vision.kia.prz.edu.pl/dynamickinect.php)
 | PSL ToF [12] | Polish | 84 | RGB, depth | 1680 | - | Public | [Link to Dataset](https://vision.kia.prz.edu.pl/dynamictof.php) 
 | AUTSL [13] | Turkish | 226 | RGB | 36302 | 43  | Public | [Link to Dataset](https://cvml.ankara.edu.tr/datasets/) 
+| NMFs-CSL [14] | Chinese | 1067 | RGB | 32010 | - | Public | [Link to Dataset](https://ustc-slr.github.io/datasets/2020_nmfs_csl/) 
+| Slovo [15] | Russian | 1000 | RGB | 20000 | 194  | Public | [Link to Dataset](https://github.com/hukenovs/slovo) 
+| K-RSL [16] | Kazakh-Russian | 600| RGB, pose | 28250 | 10 | Public | [Link to Dataset](https://krslproject.github.io/krsl20/) 
+
 
 
 
