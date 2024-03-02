@@ -22,6 +22,7 @@ A comprehensive table of video sign language datasets encompassing various langu
 
 
 **References**
+
 [1] A. Sams, A. H. Akash and S. M. M. Rahman, "SignBD-Word: Video-Based Bangla Word-Level Sign Language and Pose Translation," 2023 14th International Conference on Computing Communication and Networking Technologies (ICCCNT), Delhi, India, 2023, pp. 1-7, doi: 10.1109/ICCCNT56998.2023.10306914.
 
 [2] R. Wilbur and A. Kak, "Purdue RVL-SLLL American Sign Language Database. School of Electrical and Computer Engineering Technical Report," TR-0612, Purdue University, W. Lafayette, IN 47906, Tech. Rep., 2006.
@@ -30,18 +31,20 @@ A comprehensive table of video sign language datasets encompassing various langu
 
 [4] D. Li, C. Rodriguez, X. Yu, and H. Li, "Word-level deep sign language recognition from video: A new large-scale dataset and methods comparison," in Proceedings of the IEEE Winter Conference on Applications of Computer Vision, 2020, pp. 1459-1469.
 
-[5] F. Ronchetti, F. Quiroga, C. A. Estrebou, L. C. Lanzarini, and A. Rosete, "LSA64: an Argentinian sign language dataset," in Proceedings of the XXII Congreso Argentino de Ciencias de la Computación, Argentina, 2016 , pp. 794-803.
+[5] H. R. V. Joze and O. Koller, "MS-ASL: A large-scale data set and benchmark for understanding american sign language," arXiv preprint arXiv:1812.01053, 2018.
 
-[6] X. Chai, H. Wang, and X. Chen, "The devisign large vocabulary of chinese sign language database and baseline evaluations," in Technical report VIPL-TR-14-SLR-001. Key Lab of Intelligent Information Processing of Chinese Academy of Sciences (CAS). China: Institute of Computing Technology, 2014.
+[6] F. Ronchetti, F. Quiroga, C. A. Estrebou, L. C. Lanzarini, and A. Rosete, "LSA64: an Argentinian sign language dataset," in Proceedings of the XXII Congreso Argentino de Ciencias de la Computación, Argentina, 2016 , pp. 794-803.
 
-[7] J. Zhang, W. Zhou, C. Xie, J. Pu, and H. Li, "Chinese sign language recognition with adaptive HMM," in Proceedings of the IEEE International Conference on Multimedia and Expo, Seattle, WA, USA, 2016, pp. 1-6.
+[7] X. Chai, H. Wang, and X. Chen, "The devisign large vocabulary of chinese sign language database and baseline evaluations," in Technical report VIPL-TR-14-SLR-001. Key Lab of Intelligent Information Processing of Chinese Academy of Sciences (CAS). China: Institute of Computing Technology, 2014.
 
-[8] E.-J. Ong, H. Cooper, N. Pugeault, and R. Bowden, "Sign language recognition using sequential pattern trees," in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, Providence, Rhode Island, USA, 2012.
+[8] J. Zhang, W. Zhou, C. Xie, J. Pu, and H. Li, "Chinese sign language recognition with adaptive HMM," in Proceedings of the IEEE International Conference on Multimedia and Expo, Seattle, WA, USA, 2016, pp. 1-6.
 
-[9] E. Efthimiou and S.-E. Fotinea, "GSLC: creation and annotation of a Greek sign language corpus for HCI," in Proceedings of the International Conference on Universal Access in Human-Computer Interaction, Beijing, China, 2007, pp. 657-666.
+[9] E.-J. Ong, H. Cooper, N. Pugeault, and R. Bowden, "Sign language recognition using sequential pattern trees," in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, Providence, Rhode Island, USA, 2012.
 
-[10] A. Sridhar, R. G. Ganesan, P. Kumar, and M. Khapra, "INCLUDE: A large scale dataset for Indian sign language recognition," in Proceedings of the International Conference on Multimedia, Seattle, United States, 2020, pp. 1366-1375.
+[10] E. Efthimiou and S.-E. Fotinea, "GSLC: creation and annotation of a Greek sign language corpus for HCI," in Proceedings of the International Conference on Universal Access in Human-Computer Interaction, Beijing, China, 2007, pp. 657-666.
 
-[11] M. Oszust and M. Wysocki, "Polish sign language words recognition with kinect," in Proceedings of the 6th International Conference on Human System Interactions, Gdańsk, Sopot, Poland, 2013, pp. 219-226.
+[11] A. Sridhar, R. G. Ganesan, P. Kumar, and M. Khapra, "INCLUDE: A large scale dataset for Indian sign language recognition," in Proceedings of the International Conference on Multimedia, Seattle, United States, 2020, pp. 1366-1375.
 
-[12] O. M. Sincan and H. Y. Keles, "AUTSL: A large scale multi-modal turkish sign language dataset and baseline methods," IEEE Access, vol. 8, pp. $181340-181355,2020$.
+[12] M. Oszust and M. Wysocki, "Polish sign language words recognition with kinect," in Proceedings of the 6th International Conference on Human System Interactions, Gdańsk, Sopot, Poland, 2013, pp. 219-226.
+
+[13] O. M. Sincan and H. Y. Keles, "AUTSL: A large scale multi-modal turkish sign language dataset and baseline methods," IEEE Access, vol. 8, pp. $181340-181355,2020$.
