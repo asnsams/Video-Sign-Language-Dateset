@@ -1,4 +1,4 @@
-# Word Level / Isolated Video Sign Langauge Dataset 
+# A comprehensive table of Isolated / word-level video sign language datasets
 
 A comprehensive table of video sign language datasets encompassing various languages, types, and features:
 
