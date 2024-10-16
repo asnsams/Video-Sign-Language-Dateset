@@ -52,3 +52,10 @@ A comprehensive table of video sign language datasets encompassing various langu
 [12] M. Oszust and M. Wysocki, "Polish sign language words recognition with kinect," in Proceedings of the 6th International Conference on Human System Interactions, Gdańsk, Sopot, Poland, 2013, pp. 219-226.
 
 [13] O. M. Sincan and H. Y. Keles, "AUTSL: A large scale multi-modal turkish sign language dataset and baseline methods," IEEE Access, vol. 8, pp. $181340-181355,2020$.
+
+
+## Add a New Dataset
+
+If you would like to update the list by adding a new dataset, please fill out the following [Google Form](https://forms.gle/5PXFmb4B6Pr5UJxn6).
+
+
